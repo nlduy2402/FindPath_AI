@@ -1,5 +1,5 @@
 # Nguyen Le Duy - 20127482 - HCMUS
-# Project 1 - ARTIFICIAL INTELLIGENCE
+# PROJECT 1 - ARTIFICIAL INTELLIGENCE
 import pygame
 import math
 from queue import PriorityQueue
